@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  /* background-color: gray; */
+}
+section{
+  margin: 30px auto 0;
+  height: auto;
+}
+.slick img{
+  margin-right: 3vw;
+  margin-left: 3vw;
+}
